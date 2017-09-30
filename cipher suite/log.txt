@@ -1,0 +1,66 @@
+ 
+ Symmetric Technique 
+ The FILE file1.txt is encrypted to file1.txt.enc with -des3 algorithm
+ 
+ Symmetric Technique 
+ The FILE file1.txt.enc is decrypted to file1.txt with -des3 algorithm
+ 
+ Asymmetric Technique 
+ The FILE file2.txt is encrypted to file2.txt.enc with -aes-256-cbc algorithm
+ 
+ Asymmetric Technique 
+ The FILE file2.txt.enc is decrypted to file2.txt with -aes-256-cbc algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with -aes-256-cbc algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt.enc is decrypted to new.txt with -aes-256-cbc algorithm
+ 
+ Asymmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with -aes-256-cbc algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with -aes-256-cbc algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with  algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with  algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with  algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with  algorithm
+ 
+ Asymmetric Technique 
+ The FILE  is encrypted to .enc with  algorithm
+ 
+ Asymmetric Technique 
+ The FILE new.txt is encrypted to .enc with RSA algorithm
+ 
+ Asymmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with RSA algorithm
+ 
+ Asymmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with  algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with -rc4 algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with -des algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt.enc is decrypted to new.txt with -des algorithm
+ 
+ Symmetric Technique 
+ The FILE new.txt is encrypted to new.txt.enc with -aes-256-cbc algorithm
+ 
+ Asymmetric Technique 
+ The FILE new1.txt is encrypted to new1.txt.enc with RSA algorithm
+ 
+ Asymmetric Technique 
+ The FILE new1.txt.enc is decrypted to new1.txt with RSA algorithm
